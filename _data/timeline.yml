@@ -1,17 +1,29 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Master of Information Technology
+  institution: UNSW Sydney
+  location: Sydney, Australia 
+  from: 2025.02
+  to: current
+  description: ~~~~ 열공하겠습니다....
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Technical Business Developer
+  institution: Elice Inc.
+  location: Seoul, South Korea 
+  from: 2023.07
+  to: 2024.08
+  description: >
+    Conducted in-depth communication and research to thoroughly analyze client needs, particularly for government agencies.
+    Designed and tailored digital transformation (DX) solutions through educational programs, addressing clients' pain points and specific requirements.
+    Managed the full cycle of DX educational programs, from initial planning to successful execution and operations.
+    Prepared proposals that led to the successful adoption of DX solutions, securing multiple government contracts.
+    Led pre-sales efforts by building strong relationships with potential clients, translating prospects into sales opportunities.
+
+- title: Bachelor of Economics and IT Engineering
+  institution: Sookmyung Women's University
+  location: Seoul, South Korea 
+  from: 2019.03
+  to: 2024.02
+  description: >
+    Double majored in Economics and IT Engineering, 
+    growing into a talent capable of integrating social sciences and engineering. 
+    This interdisciplinary education provided a unique perspective on solving complex problems, 
+    combining analytical skills with technical expertise in IT.

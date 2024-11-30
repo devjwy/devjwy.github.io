@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
+name: (test page) 링크 연결 
 tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+image: https://i.ytimg.com/vi/Ox29z5Nf1Uk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6_KYw4LxiSzWIf_dUAyv3LpA4og
+description: 깃헙 레포 올릴 떄는 이런식으로 하면 될 듯,, 
+external_url: https://youtu.be/Ox29z5Nf1Uk?si=APou30zOz-MPPl8M
 ---

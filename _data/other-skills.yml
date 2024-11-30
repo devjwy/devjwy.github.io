@@ -1,7 +1,7 @@
-- name: Adobe Photoshop
+- name: Microsoft Excel
   percentage: 95
   color: info
 
-- name: Adobe Illustrator
+- name: Microsoft PowerPoint
   percentage: 90
   color: success
