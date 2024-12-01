@@ -7,7 +7,9 @@ description: 테스트 페이지 입니당
 ---
 
 ## 제목 
-마크다운 도대체 언제 익숙해지지...
+
+앞으로 공부 관련 포스트는 여기에 쓸 것임 <br>
+그치만 마크다운 도대체 언제 익숙해지지...
 
 `print()` 를 사용해 보아요
 
@@ -22,5 +24,10 @@ print("Hello, World!")
 
 
 {% include elements/highlight.html text="하이라이트가 너무 어려운데" %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Y50TZeFvKU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<span style="color: gray"> ~~발레가 너무 아름다움..~~ </span>
+
 
 anyway i'm all set! 
